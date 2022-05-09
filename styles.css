@@ -1,0 +1,107 @@
+/********************object selectors********************/
+img{
+  height: 150px;
+  width: 150px;
+}
+h1{
+  display: inline-block;
+  margin-left: 650px;
+}
+body{
+  margin-top: 0;
+  margin-left: 2px;
+  margin-right: 0;
+  margin-bottom: 1px;
+}
+ul{
+  margin-bottom: 0;
+}
+a:hover{
+  color: #F8CB2E;
+}
+/*******************class selectors1***********************/
+.title{
+  margin-left: 738px;
+}
+.title1{
+  margin-left: 870px;
+}
+.top{
+  height: 160px;
+  background-color: #EADEDE;
+  padding: 10px;
+  border-top: dotted;
+  border-left: dotted;
+  border-right: dotted;
+}
+.hr_fancy{
+  width: 11%;
+  margin-left: 728px;
+  border: none;
+  border-style: none;
+  border-top: dotted;
+  border-width: 7px;
+  border-color: #96CEB4;
+}
+.top-2{
+  width: 200;
+  height: 200;
+  border-left: dotted;
+  border-right: dotted;
+  background-color: #96CEB4;
+}
+.top-3{
+  background-color: #96CEB4;
+  height: 470px;
+  border-left: dotted;
+  border-right: dotted;
+}
+.h3_space{
+  margin-left: 10px;
+}
+.h3_space2{
+  margin-left: 1400px;
+}
+.h3_space3{
+  margin-left: 1641px;
+}
+.map1{
+  margin-left: 30px;
+  height: 350px;
+  width: 900px;
+}
+.map2{
+  margin-left: 50px;
+  margin-right: 0;
+  height: 350px;
+  width: 900px;
+}
+/********************class selectors2*********************/
+.cuprins_mijloc{
+  margin-left: 915px;
+}
+.cuprins_background{
+  background-color: #EDE6DB;
+}
+.hr_fancy2{
+  width: 15%;
+  margin-left: 778px;
+  border: none;
+  border-style: none;
+  border-top: dotted;
+  border-width: 7px;
+  border-color: #96CEB4;
+}
+/**********************id selectors**********************/
+#h3_fancy{
+  display: inline;
+  margin-left: 690px;
+  margin-top: 0;
+}
+#h3_fancy2{
+  display: inline;
+  text-decoration: underline;
+}
+#h3_fancy3{
+  display: inline;
+}
